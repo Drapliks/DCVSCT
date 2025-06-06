@@ -1,0 +1,25 @@
+{
+  "name": "dcvsct",
+  "displayName": "DCVSCT(Drapliks Custom Visual Studio Code Theme)",
+  "description": "My custom theme",
+  "version": "0.0.1",
+  "publisher": "Drapliks",
+  "publisherDisplayName": "Drapliks",
+  "engines": {
+    "vscode": "^1.100.0",
+  "publisher": "my-publisher-name",
+  "icon": "icon.png"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "DCVSCT(Drapliks Custom Visual Studio Code Theme)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/DCVSCT(Drapliks Custom Visual Studio Code Theme)-color-theme.json"
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "My Theme",
+  "type": "dark",
+  "colors": {
+    "activityBar.background": "#000000",
+    "activityBar.foreground": "#ffffff",
+    "sideBar.background": "#000000",
+    "sideBar.foreground": "#ffffff",
+    "sideBar.border": "#ffffff",
+    "statusBar.background": "#000000",
+    "statusBar.foreground": "#ffffff",
+    "statusBar.border": "#ffffff",
+    "titleBar.activeBackground": "#141414",
+    "titleBar.activeForeground": "#ffffff",
+    "editor.background": "#141414",
+    "editor.selectionBackground": "#000000",
+    "editor.lineHighlightBackground": "#101010",
+    "editor.lineHighlightBorder": "#424242",
+    "tab.border": "#ffffff"
+  }
+}
